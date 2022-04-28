@@ -1,0 +1,7 @@
+/* Esta es la primera parte del test
+
+Freddy Vega tiene 32 anos y nacio en Colombia
+
+Esta es su historia:
+
+*/
