@@ -1,9 +1,5 @@
 /*
-Cambio 1 y test 1
-Cambio 2
-En camara parece alto
-Hoy es el ceo de platzy
+Cambio 1
 
-Nuevo cambio 5
-
+Tomorrow we will focus on his life
 */
