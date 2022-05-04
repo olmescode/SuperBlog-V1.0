@@ -1,6 +1,25 @@
 body
 {
-    color: aquamarine;
+    color: darkcyan;
     text-align: center;
-    font-family: "Arial";
+    font-family: Arial;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 50%;
+    padding: 1em;
+    border-bottom: 3px solid #fafa;
+    border-right: 10px solid #FFF233;
+    border-left: 10px solid #33BEFF;
+    border-top: 3px solid #FF8533;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
